@@ -1,1 +1,1 @@
-{\n  "wifi": {\n    "ssid": "Your_SSID",\n    "password": "Your_Password"\n  },\n  "api": {\n    "url": "https://api.example.com",\n    "key": "Your_API_Key"\n  }\n}
+{\n  \"wifi\": {\n    \"ssid\": \"your-ssid\",\n    \"password\": \"your-password\"\n  },\n  \"api\": {\n    \"openWeatherMapApiKey\": \"YOUR_OPENWEATHERMAP_API_KEY\",\n    \"geolocationApiUrl\": \"https://api.ipgeolocation.io/ipgeo\"\n  },\n  \"display\": {\n    \"i2cAddress\": 0x27,\n    \"updateInterval\": 60000 // in milliseconds\n  },\n  \"debugMode\": true\n}
