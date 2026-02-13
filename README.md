@@ -36,3 +36,16 @@ Bude hodnoceno za 5 pouze při neplnění činosti na hodínách Dpr.
 
 ### pozor
 v github máte tlačítko copilot, umí programovat lépe než chatgpt, tak alespoň využívejte ty správné nástroje.
+
+
+
+
+
+
+
+
+
+
+
+
+### nejdriv commit pak push
