@@ -1,9 +1,4 @@
-# Ignorovat složku s knihovnami
-node_modules/
-venv/
-
-# Ignorovat konkrétní soubor s hesly
-.env
+main/
 
 # Ignorovat všechny logy
 *.log
