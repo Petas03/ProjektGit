@@ -27,9 +27,6 @@ This project involves creating a weather station using the Raspberry Pi Pico W, 
 - Use a service like PubNub, MQTT, or a custom backend for data transmission.
 - Update the API URL in the source code accordingly.
 
-## Wiring Diagram for LCD Display
-![Wiring Diagram](link_to_your_wiring_diagram_image.png) <!-- Ensure to replace with an actual image URL -->
-
 ## Troubleshooting Guide
 - **Issue: DHT22 sensor not responding**
   - Check the wiring connections.
